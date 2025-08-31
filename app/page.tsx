@@ -364,8 +364,8 @@ export default function Portfolio() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail size={20} className="text-purple-400" />
-                  <a href="mailto:marmikjoshi2@gmail.com" className="hover:text-purple-400 transition-colors">
-                    marmikjoshi2@gmail.com
+                  <a href="mailto:marmikjoshi52@gmail.com" className="hover:text-purple-400 transition-colors">
+                    marmikjoshi52@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center space-x-3">
